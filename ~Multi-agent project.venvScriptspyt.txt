@@ -1,0 +1,1 @@
+~\Multi-agent project\.venv\Scripts\python.exe
