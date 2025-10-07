@@ -370,7 +370,7 @@ Please open an issue to discuss major changes before submitting pull requests.
 ## Author
 
 **Andrés Felipe López Lozano**  
-AI Engineer & Data Analyst  
+Software Developer 
 Buga, Colombia  
 GitHub: [WiseCat-Git](https://github.com/WiseCat-Git)
 
